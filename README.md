@@ -20,7 +20,7 @@ The map will provide several complementary entry points:
 
 | Entry point | Guiding question | Status |
 | --- | --- | --- |
-| **[Open Questions](questions/correlated-superconductivity.md)** | What remains unexplained? | First seed page |
+| **[Open Questions](questions/README.md)** | What remains unexplained? | Four top-level questions |
 | **Physical Systems** | Where does the physics appear? | Planned |
 | **Methods** | What can each theoretical tool reliably establish? | Planned |
 | **Experiments** | What is directly observed, and how is it interpreted? | Planned |
@@ -39,10 +39,10 @@ flowchart TD
     SC --> E["Experimental Evidence"]
     SC --> D["PhD Directions"]
 
-    Q --> CS["Correlated Superconductivity"]
-    Q --> SL["Quantum Spin Liquids"]
-    Q --> SM["Strange Metals"]
-    Q --> QC["Quantum Criticality"]
+    Q --> Q0["When Does the Electron Picture Fail?"]
+    Q --> Q1["Doping a Mott Insulator"]
+    Q --> Q2["Explaining Correlated Superconductivity"]
+    Q --> Q3["Establishing Fractionalization"]
 
     S --> CU["Cuprates"]
     S --> HF["Heavy Fermions"]
