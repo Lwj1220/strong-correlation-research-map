@@ -20,7 +20,7 @@ The map will provide several complementary entry points:
 
 | Entry point | Guiding question | Status |
 | --- | --- | --- |
-| **Open Questions** | What remains unexplained? | In development |
+| **[Open Questions](questions/README.md)** | What remains unexplained? | Four top-level questions |
 | **Physical Systems** | Where does the physics appear? | Planned |
 | **Methods** | What can each theoretical tool reliably establish? | Planned |
 | **Experiments** | What is directly observed, and how is it interpreted? | Planned |
@@ -39,10 +39,10 @@ flowchart TD
     SC --> E["Experimental Evidence"]
     SC --> D["PhD Directions"]
 
-    Q --> CS["Correlated Superconductivity"]
-    Q --> SL["Quantum Spin Liquids"]
-    Q --> SM["Strange Metals"]
-    Q --> QC["Quantum Criticality"]
+    Q --> Q0["When Does the Electron Picture Fail?"]
+    Q --> Q1["Doping a Mott Insulator"]
+    Q --> Q2["Explaining Correlated Superconductivity"]
+    Q --> Q3["Establishing Fractionalization"]
 
     S --> CU["Cuprates"]
     S --> HF["Heavy Fermions"]
@@ -61,7 +61,7 @@ The diagram is deliberately incomplete. It will grow only when new nodes and con
 
 **Topic:** Correlated superconductivity
 
-**Guiding question:** What would count as a satisfactory explanation of unconventional superconductivity?
+**Guiding question:** [What would count as a satisfactory explanation of unconventional superconductivity?](questions/correlated-superconductivity.md)
 
 The first investigation will distinguish four related but non-equivalent questions:
 
@@ -85,8 +85,8 @@ A topic is considered synthesized only when its conclusions have been incorporat
 ## Project Status
 
 **Version:** 0.1 — foundation  
-**Current stage:** defining the map and developing the first question page  
-**Last updated:** 2026-09-06
+**Current stage:** developing the first question page  
+**Last updated:** 2026-09-07
 
 ## Scope and Limitations
 
