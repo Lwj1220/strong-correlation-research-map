@@ -25,7 +25,7 @@ The map will provide several complementary entry points:
 | **Methods** | What can each theoretical tool reliably establish? | Planned |
 | **Experiments** | What is directly observed, and how is it interpreted? | Planned |
 | **Paper Notes** | Which claims and evidence change the map? | Planned |
-| **PhD Directions** | Which problems and working styles fit me? | Planned |
+| **[PhD Directions](phd-directions/exploration-plan.md)** | Which problems and working styles fit me? | Three-week exploration plan |
 
 ## Field Map
 
@@ -58,6 +58,8 @@ flowchart TD
 The diagram is deliberately incomplete. It will grow only when new nodes and connections are supported by focused investigation.
 
 ## Current Focus
+
+**Direction exploration:** [Three-week plan and research-group comparison template](phd-directions/exploration-plan.md). Start with Mott/Kondo physics, connect it to effective-theory methods, and compare with correlated topology and spin liquids. Record completed small tasks and questions still worth pursuing alongside the existing topic investigation below.
 
 **Topic:** Correlated superconductivity
 
